@@ -1,4 +1,6 @@
 # Multi-Agent-Clinical-Trial-Inteligence-Using-LangGraph-LangMem-GCP
+
+Multi-Agent Clinical Trial Intelligence using LangGraph, LangMem, and GCP is an AI-powered platform that automates the analysis of clinical trial data using a collaborative multi-agent architecture. Built with LangGraph for agent orchestration, LangMem for persistent memory, and Google Cloud Platform (GCP) for scalable deployment, the system enable
 ## Project Preview
 
 <p align="center">
