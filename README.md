@@ -8,3 +8,10 @@ Multi-Agent Clinical Trial Intelligence using LangGraph, LangMem, and GCP is an 
        alt="Project Preview"
        width="600" />
 </p>
+
+## Project Architecture
+<p align="center">
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/gcparch.jpg"
+       alt="Project Architecture"
+       width="600" />
+</p>
